@@ -1,0 +1,34 @@
+SOLAR PANEL PLACEMENT ANALYSIS SUMMARY
+========================================
+
+Analysis Date: 2025-05-16 17:54:08
+Total Images Processed: 4
+
+----------------------------------------
+DETAILED RESULTS:
+
+Image: 1.jpg
+• Number of panels: 1
+• Power capacity: 0.4 kW
+• Annual energy: 602.3 kWh
+----------------------------------------
+Image: 2.jpg
+• Number of panels: 2
+• Power capacity: 0.8 kW
+• Annual energy: 1204.5 kWh
+----------------------------------------
+Image: 3.jpg
+• Number of panels: 3
+• Power capacity: 1.2 kW
+• Annual energy: 1806.8 kWh
+----------------------------------------
+Image: 4.jpg
+• Number of panels: 3
+• Power capacity: 1.2 kW
+• Annual energy: 1806.8 kWh
+----------------------------------------
+
+AGGREGATE RESULTS:
+Total Panels: 9
+Total Power Capacity: 3.6 kW
+Total Annual Energy: 5420.2 kWh

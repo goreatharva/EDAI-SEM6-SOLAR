@@ -1,0 +1,28 @@
+{
+    "coverage_efficiency": {
+        "coverage_ratio": 0.15098039215686274,
+        "improvement_percentage": -76.77224736048265,
+        "baseline": 0.65
+    },
+    "power_density": {
+        "power_density": 26.1437908496732,
+        "improvement_percentage": -83.66013071895425,
+        "baseline": 160
+    },
+    "spacing_uniformity": {
+        "uniformity_score": 0.8707699456174813,
+        "improvement_percentage": 24.395706516783054,
+        "baseline": 0.7
+    },
+    "edge_utilization": {
+        "edge_utilization": 0.014162077104642014,
+        "improvement_percentage": -97.639653815893,
+        "baseline": 0.6
+    },
+    "summary": {
+        "total_improvement": -58.41908134463671,
+        "total_power_kw": 1.2,
+        "num_panels": 3,
+        "annual_energy_kwh": 1806.75
+    }
+}

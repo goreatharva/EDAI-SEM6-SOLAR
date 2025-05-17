@@ -1,0 +1,38 @@
+{
+    "coverage_efficiency": {
+        "coverage_ratio": 0.2711779802688894,
+        "improvement_percentage": -22.520577066031596,
+        "baseline": 0.35
+    },
+    "power_density": {
+        "power_density": 52.24364860728497,
+        "improvement_percentage": -56.46362616059586,
+        "baseline": 120
+    },
+    "spacing_uniformity": {
+        "uniformity_score": 0.98,
+        "improvement_percentage": 78.18181818181816,
+        "baseline": 0.55
+    },
+    "edge_utilization": {
+        "edge_utilization": 0.3530464991982897,
+        "improvement_percentage": 17.682166399429896,
+        "baseline": 0.3
+    },
+    "shading_optimization": {
+        "shading_score": 0.95,
+        "improvement_percentage": 58.333333333333336,
+        "baseline": 0.6
+    },
+    "installation_efficiency": {
+        "installation_score": 0.95,
+        "improvement_percentage": 46.15384615384614,
+        "baseline": 0.65
+    },
+    "summary": {
+        "total_improvement": 18.298529484906883,
+        "total_power_kw": 5.2,
+        "num_panels": 13,
+        "annual_energy_kwh": 7829.25
+    }
+}
